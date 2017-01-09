@@ -1,15 +1,16 @@
 python-firebase
 ===============
-http://github.com/mikexstudios/python-firebase
+fork of http://github.com/mikexstudios/python-firebase
 by Michael Huynh (mike@mikexstudios.com)
 
 Purpose:
 -------
 
-A very simple wrapper for Firebase's REST API.
+A very simple wrapper for Firebase's REST API v3.
 
 How to use
 ----------
+*TODO*: update these steps
 
 1.  Install python-firebase using pip:
 
